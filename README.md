@@ -2,9 +2,10 @@
 
 OCTVision is an AI-powered medical diagnostic platform designed to revolutionize the early diagnosis of retinal diseases using Optical Coherence Tomography (OCT) imaging technology. The system leverages Inception V3 model, Explainable AI Visualizations, and LLM Report Generation to assist medical professionals in clinical decision-making Developed by a team of Computer Science students:
 
-- **Syed Ebraheem Hammad Gillani - FA21-BCS-143**: Group Member - AI Model Development & ML Integration
+- **Sibt E Hassan - FA21-BCS-132**: Group Member - Fast APIs, Explainable AI, LLM Integration, Binary Model 
+- **Syed Ebraheem Hammad Gillani - FA21-BCS-143**: Group Member - AI Model Development for classification
 - **Muhammad Farooq Sheikh - FA21-BCS-074**: Group Member - Full-Stack Web Development (Backend + Frontend + Auth)
-- **Sibt E Hassan - FA21-BCS-132**: Group Member - Fast APIs, Explainable AI, LLM Integration
+
 
 ## Features
 
